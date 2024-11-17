@@ -3,7 +3,7 @@
 ## 原始项目分支（torch推理，ncnn推理等）：[master](https://github.com/ouyanghuiyu/chineseocr_lite/tree/master)
 
 ## 环境
-- python3.6
+- python3.7
 
 - linux/macos/windows
 
